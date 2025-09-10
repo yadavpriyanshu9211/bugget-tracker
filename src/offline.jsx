@@ -126,7 +126,7 @@ export default function Offline() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3"> 
             <Wallet className="h-8 w-8 text-black" />
-            <h1 className="text-2xl md:text-3xl font-semibold text-black">Offline Budget Tracker</h1>
+            <h1 className="text-2xl md:text-3xl font-semibold text-black">Budget Tracker</h1>
           </div>
           <div className="flex items-center gap-2">
             <button onClick={clearAll} className="px-4 py-2 bg-rose-500 text-white rounded-2xl flex items-center gap-2">
