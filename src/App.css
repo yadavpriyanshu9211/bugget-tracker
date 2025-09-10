@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+
+}
+.demo{
+  width: 40%;
+  height: 60vh;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+  background-color: wheat ;
+  cursor: pointer;
+}
+
+
